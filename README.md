@@ -10,7 +10,7 @@ Proyecto del periodo #1. Programando el ESP32
 - **Del Sacramento, Patricio**. [Link Github](https://github.com/patriciodelsacramento).
 - **Farias, Evelin**. [Link Github](https://github.com/linevefar).
 - **Barrios, Nahuel**. [Link Github](https://github.com/nahuel276).
-- ** **
+- **Ortiz, Sofia Mariel**. [Link Github](https://github.com/Sofiortiz). 
 - ** **
 - ** **
 
@@ -27,7 +27,7 @@ Proyecto del periodo #1. Programando el ESP32
 ### Development Team
 
 - **Barrios, Nahuel**.
-- **  **
+- **Ortiz, Sofia Mariel**
 - **  **
 - **  **
 
