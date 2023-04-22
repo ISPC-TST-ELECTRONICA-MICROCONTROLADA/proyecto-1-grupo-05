@@ -7,7 +7,7 @@ Proyecto del periodo #1. Programando el ESP32
 ## Integrantes Grupo 05
 
 
-- ** **
+- **Del Sacramento, Patricio**. [Link Github](https://github.com/patriciodelsacramento).
 - ** **
 - ** **
 - ** **
@@ -33,7 +33,7 @@ Proyecto del periodo #1. Programando el ESP32
 
 ### Scrum Master
 
-- **  **
+- **Del Sacramento, Patricio**
 
 ### Product Owner
 
