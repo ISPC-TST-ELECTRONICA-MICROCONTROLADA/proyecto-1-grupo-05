@@ -12,7 +12,6 @@ Proyecto del periodo #1. Programando el ESP32
 - **Barrios, Nahuel**. [Link Github](https://github.com/nahuel276).
 - **Romero, Hernan**. [Link Github](https://github.com/hernanmatiasar).
 - **Ortiz, Sofia Mariel**. [Link Github](https://github.com/Sofiortiz).
-- ** **
 
 --- 
 
@@ -29,7 +28,6 @@ Proyecto del periodo #1. Programando el ESP32
 - **Barrios, Nahuel**.
 - **Romero, Hernan**.
 - **Ortiz, Sofia Mariel**.
-- **  **
 
 ### Scrum Master
 
