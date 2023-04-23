@@ -37,4 +37,10 @@ Proyecto del periodo #1. Programando el ESP32
 
 - **Farias, Evelin**
 
+
+### Video Presentación
+[Link Youtube](https://www.youtube.com/watch?v=Qp9WmUcI45g)
+
 --- 
+
+
