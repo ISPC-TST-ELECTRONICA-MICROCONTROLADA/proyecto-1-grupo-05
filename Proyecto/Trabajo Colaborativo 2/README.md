@@ -1,4 +1,6 @@
-**Los objetivos del trabajo colaborativo es desarrollar un web server con el esp32, de manera de poder
+# Trabajo Colaborativo 2 
+
+**Los objetivos del trabajo es desarrollar un web server con el esp32, de manera de poder
 acceder a el desde el celular y poder ver los siguientes parámetros:**
 
     4 Entradas Analógicas
